@@ -1,0 +1,1 @@
+El directorio "home" es un espacio virtual de trabajo
